@@ -1,0 +1,10 @@
+*/ Reset default browser styles */
+body{line-height:1.6;background-color:pink;}
+header {background-color: blanchedalmond;text-decoration-color: blue;text-align: center;text-decoration-style: solid;font-weight: bold;}
+nav ul {list-style: none;}
+nav ul li {display:inline;margin-right: 27px;}
+title{background-color: blue;text-align: center;}
+.product, .services {text: size adjust 2em;text-decoration: wavy ;}
+.product img {max: width 100px;height: auto;size-adjust: width 3em;height: 4em;}
+footer {background-color: blanchedalmond;text-decoration: chocolate;text-align: center;}
+span {background-color: aqua;text-align: center;font-weight: bolder;}
